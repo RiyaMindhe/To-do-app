@@ -2,8 +2,6 @@
 
 Our application's interaction with databases takes center stage. The Back End serves as the middleman through which data is transferred to and fetched from the database, allowing a seamless flow of information. In software development, there are two prominent types of databases emerging: Relational Databases, characterized by Structured Query Language (SQL), and Non-Relational Databases, often referred to as NoSQL databases. 
 
-![image](https://github.com/RiyaMindhe/To-do-app/assets/84629433/c1d2715f-2c25-46ea-9800-101268879cf7)
-![C7_Q3_justriya_2](https://github.com/RiyaMindhe/To-do-app/assets/84629433/5662eac4-81c2-48b8-bb11-a67ceb22a329)
 
 
 # Deployment of Database
@@ -28,3 +26,7 @@ Now, let us go back to our code editor and open the .env file that is residing i
 db_connection="mongodb+srv://username:mypassword@stackuptest.zcz5yxc.mongodb.net/?retryWrites=true&w=majority"
 PORT=3000
 For Gitpod users, ⚠️ there's an additional step that you need to do. In the sidebar, look for Network Access. Then, click on the ADD IP ADDRESS button. In the modal, click on the ALLOW ACCESS FROM ANYWHERE button, and then click Confirm. Doing so will allow Gitpod to connect to your database.
+
+![image](https://github.com/RiyaMindhe/To-do-app/assets/84629433/c1d2715f-2c25-46ea-9800-101268879cf7)
+
+![C7_Q3_justriya_2](https://github.com/RiyaMindhe/To-do-app/assets/84629433/5662eac4-81c2-48b8-bb11-a67ceb22a329)
