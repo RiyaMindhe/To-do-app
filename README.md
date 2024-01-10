@@ -21,7 +21,7 @@ Select the first option “Drivers”
 
 Now, let us go back to our code editor and open the .env file that is residing in our project folder. Now, replace the to_be_added_in_subsequent_steps in the .env with the connection string you have copied from MongoDB Atlas. Ensure the string is in quotes.
 
-⚠️Once you have populated the db_connection key in the .env file, replace the <password> with the password you created when creating a new user in MongoDB Atlas. Your final .env file should look like the code shown below.
+⚠️Once you have populated the db_connection key in the .env file, replace the <password> with the password you created when creating a new user in MongoDB Atlas. Your final .env file should look like the code shown below. 
 
 db_connection="mongodb+srv://username:mypassword@databasename.zcz5yxc.mongodb.net/?retryWrites=true&w=majority"
 
